@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="css.css" type="text/css"/>
+    </head>
+    <body>
+        <div id="header">Stanisław III Waza</div>
+        <div id="left">
+            <a href="html.html">Home</a>
+           | <a href="podstrona1.html">O Wrodpress</a>
+           | <a href="podstrona2.html">Instalacja</a>
+           | <a href="podstrona3.html">Historia</a>
+           | <a href="podstrona4.html">Linki Zewnętrzne</a>
+           |
+        </div>
+        <div id="content">
+		
+		WordPress jest z założenia platformą blogową, lecz mimo to, coraz częściej jest używany jako cms do stawiania zwykłych stron, stron firmowych, czy nawet całych serwisów internetowych. Główną jego zaletą jest prostota i intuicyjność, nawet nowi użytkownicy internetu którzy dopiero raczkują w tym temacie, szybko opanują podstawy jego obsługi. Oprócz tego że WordPress jest genialny, szybki i prosty, jest on także dostępny zupełnie za darmo!
+
+Silnik WordPressa jest rozwijany przez setki programistów wolontariuszy z całego świata, a oprócz tego, kolejne tysiące freelancerów, webdeveloperów itd, codziennie tworzy nowe szablony oraz wtyczki do WP, których są już tysiące. Ponad 100 milionów użytkowników wybrało WordPressa do zaprezentowania "siebie" w internecie. Gotowy aby spróbować samemu? Dołącz do rodziny.
+
+
+            <img src="img.png" alt="To jest logo Wordpress">
+            
+            
+        </div>
+        <div id="right">
+            ---------- <p>
+        </p>
+
+            </p>
+            <a href="https://pl.wikipedia.org/wiki/Zygmunt_III_Waza">Wikipedia</a><p>
+            ----------
+        </p>
+        </div>
+        <div id="footer">Batko Patryk 4TWZ</div>
+    </body> 
+</html>
